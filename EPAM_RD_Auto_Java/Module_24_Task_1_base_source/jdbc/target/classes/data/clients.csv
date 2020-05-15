@@ -1,0 +1,10 @@
+cli_id;first_name;last_name;nick_name;sex;age;email;status
+1;John;Rambo;sly;male;32;john.rambo@gmail.com;active
+2;Harry;Potter;wizard;male;16;potter@hogwarts-school.org;active
+3;Katniss;Everdeen;mockingjay;female;21;mockingjay@gmail.com;active
+4;Duncan;MacLeod;highlander;male;350;highlander@yahoo.com;active
+5;Lara;Croft;tombraider;female;27;tombraider@gmail.com;active
+6;Arnold;Schwarzenegger;terminator;male;35;the_terminator@ukr.net;active
+7;Sherlock;Holmes;detective;male;40;sherlock.holmes@gmail.com;active
+8;Anakin;Skywalker;darthvader;male;45;anakin@darkside.com;blocked
+9;Mickey;Mouse;mickey;male;7;m.mouse@gmaul.com;active
